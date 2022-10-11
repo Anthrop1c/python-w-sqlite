@@ -1,0 +1,6 @@
+Todos os registros:
+('carlos', 26, 'carlos@gmail.com')
+('beto', 17, 'beto@gmail.com')
+('gloria', 34, 'gloria@gmail.com')
+('Cesar', 32, 'cesar@gmail.com')
+('tarcio', 87, 'tarcio@gmail.com')
